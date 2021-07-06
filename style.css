@@ -46,11 +46,22 @@
             text-align: center;
         }
         
-        .food-pic {
-            align-items: flex-end;
+        #text-size {
+            margin-left: 20%;
+            margin-right: 20%;
         }
         
-        .imag-food img {
-            width: 20%;
-            align-items: center;
+        .imag-line img {
+            width: 30%;
+            display: inline;
+            margin: auto;
+        }
+        
+        .img-line {
+            display: inline-flex;
+            align-items: flex-start;
+        }
+        
+        .tex-line {
+            margin-right: 60%;
         }
